@@ -1,0 +1,13 @@
+# Bỏ qua môi trường ảo chứa thư viện nặng
+.venv/
+venv/
+
+# Bỏ qua các thư mục chứa checkpoint mô hình khổng lồ
+results/
+results_improved/
+tmp/
+
+# Bỏ qua file rác thực thi của Python
+__pycache__/
+*.pyc
+*.pyo
