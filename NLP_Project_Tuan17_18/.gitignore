@@ -1,0 +1,17 @@
+# Môi trường ảo
+.venv/
+venv/
+
+# Thư mục lưu mô hình sau khi train
+results/
+models/
+__pycache__/
+*.pyc
+
+# Bỏ qua môi trường ảo và thư mục cache
+.venv/
+__pycache__/
+
+# Bỏ qua các file trọng số mô hình cực nặng
+models/
+results_t5/

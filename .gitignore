@@ -6,6 +6,8 @@ venv/
 results/
 results_improved/
 tmp/
+models/
+results_t5/
 
 # Bỏ qua file rác thực thi của Python
 __pycache__/
